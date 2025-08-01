@@ -1,0 +1,18 @@
+# Paula’s Choice – Skin-Concern Library
+
+> LLM-ready copies of our concern pages.  Each link points to the cleaned Markdown mirror under `/docs/`.
+
+## Skin-concern pages
+- [Overview cards](docs/by-skin-concern/index.html.md): Thumbnail list of all concerns
+- [Acne-prone skin](docs/by-skin-concern/acne-prone-skin.html.md)
+- [Breakouts](docs/by-skin-concern/breakouts.html.md)
+- [Blackheads](docs/by-skin-concern/blackheads.html.md)
+- [Anti-Ageing](docs/by-skin-concern/anti-ageing.html.md)
+- [Dull skin](docs/by-skin-concern/dull-skin.html.md)
+- [Keratosis pilaris](docs/by-skin-concern/keratosis-pilaris.html.md)
+- [Brown spots](docs/by-skin-concern/brown-spots.html.md)
+- [Redness](docs/by-skin-concern/redness.html.md)
+- [Enlarged pores](docs/by-skin-concern/enlarged-pores.html.md)
+- [Rosacea-prone skin](docs/by-skin-concern/rosacea-prone-skin.html.md)
+
+
